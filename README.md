@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! I am Subhajit
+Hi! I am Subhajit,
+An aspiring Full Stack Developer 
 
 
 ## 🌐 Socials:
