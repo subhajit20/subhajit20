@@ -4,7 +4,7 @@ About
 
 As a BCA student, I am an aspiring full-stack developer with experience in Python, Django, JavaScript, React, and Node.js. I have a passion for software development and am always seeking new challenges to expand my skills.
 
-My 3 months of experience in web development, teaching experience and full-stack developer position have equipped me with the skills and knowledge to build dynamic, user-friendly web applications. I have built projects using JavaScript, Node.js, and React, and I am always eager to learn and implement new technologies.
+My 6 months of experience in web development, teaching experience and full-stack developer position have equipped me with the skills and knowledge to build dynamic, user-friendly web applications. I have built projects using JavaScript, Node.js, and React, and I am always eager to learn and implement new technologies.
 
 I believe in the power of collaboration and community, and I am excited to be a part of the tech industry. I am eager to connect with other professionals, learn from their experiences, and contribute to the field through my own work and initiatives.
 
