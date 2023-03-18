@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi! I am Subhajit,
-About
 
 As a BCA student, I am an aspiring full-stack developer with experience in Python, Django, JavaScript, React, and Node.js. I have a passion for software development and am always seeking new challenges to expand my skills.
 
