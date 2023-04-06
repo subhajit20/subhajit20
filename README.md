@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/99127578/230406073-6cc08f9a-1838-4f52-a713-d81a70df1bce.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99127578/230412854-f0b521de-bed7-4f40-9701-ec078efb3ddb.gif" />
+ </p>
 
 # 💫 About Me:
 Hi! I am Subhajit,
